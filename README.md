@@ -1,2 +1,3 @@
 # BattleshipGame
-This is Single player Battleship Game.   
+This is Single player Battleship Game using JAVA Swing. 
+
